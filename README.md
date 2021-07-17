@@ -1,6 +1,4 @@
-# Alz
-
-Transcriptomic Analysis of the brains of Symptomatic and Asymptomatic Alzheimer’s Patients
+# Transcriptomic Analysis of the brains of Symptomatic and Asymptomatic Alzheimer’s Patients
 
 Asymptomatic Alzheimer’s disease (Asym-AD) is a condition where patients have intact cognition but neuropathology similar to Alzheimer’s disease (AD). 
 Studying the genome-wide expression of transcripts in Asym-AD brains could help us understand the molecular mechanisms that play a role in the onset of AD
